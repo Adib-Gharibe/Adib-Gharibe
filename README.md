@@ -1,44 +1,88 @@
 # Hi, ich bin Adib 👋
 
-🎓 Informatikstudent  
-💻 Fokus auf C++, Python, Cybersecurity und Webentwicklung  
-🚀 Ich entwickle Projekte in den Bereichen Softwareentwicklung, Security und moderne Anwendungen
+🎓 Computer Science Student at **Darmstadt University of Applied Sciences (h_da)**
+💻 Interested in **C++, Python, Cybersecurity and Web Development**
+🚀 Building projects to improve my skills in **software engineering, networking and IT security**
 
-## 👨‍💻 Über mich
-Ich studiere Informatik an der **Hochschule Darmstadt (h_da)** und interessiere mich besonders für Softwareentwicklung, Cybersecurity und moderne Webtechnologien.  
-Neben meinem Studium arbeite ich an eigenen Projekten, um praktische Erfahrung mit verschiedenen Programmiersprachen und Technologien zu sammeln.
+---
 
+## 👨‍💻 About Me
 
-## Tech Stack
-- **Sprachen:** C++, Python, TypeScript, JavaScript
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Flask
-- **Tools:** Git, GitHub, Qt, Linux
+I am currently studying **Computer Science at Darmstadt University of Applied Sciences (h_da)**.
+My main interests are **software development, cybersecurity and network security**.
 
-## Projekte
+Alongside my studies I build practical software projects and continuously improve my skills in **ethical hacking, networking and system security**.
+
+---
+
+## 🎓 Certifications
+
+* Cisco – **Introduction to Cybersecurity**
+* Cisco – **Network Security**
+* Cisco – **Networking Fundamentals**
+
+---
+
+## 🔐 Cybersecurity Learning
+
+I actively improve my cybersecurity skills through practical labs and challenges on:
+
+* **TryHackMe**
+* **Hack The Box**
+
+These platforms help me practice real-world topics like:
+
+* Network Security
+* Linux & System Security
+* Web Security
+* Vulnerability Analysis
+* Ethical Hacking Basics
+
+---
+
+## 🚀 Projects
+
 ### 🔐 Security Log Analyzer
-Python-Tool zur Analyse von SSH-Authentifizierungslogs und Erkennung verdächtiger Aktivitäten.
 
-### 🚗 Unfallassistent App
-Mobile-first Webanwendung zur Unterstützung bei Verkehrsunfällen.
+Python tool that analyzes SSH authentication logs and detects suspicious login activity.
+
+### 🚗 Accident Assistant App
+
+Mobile-first web application designed to support users after a traffic accident.
 
 ### ✈️ Dragon Travel Manager
-C++/Qt Desktop-Anwendung mit modernen C++-Konzepten.
+
+C++ / Qt desktop application demonstrating modern C++ concepts.
 
 ### 📬 Mail Delivery Simulation
-C++ Multithreading-Simulation mit Mutexen, Condition Variables, Atomics und Semaphoren.
 
-## Aktuell lerne ich
-- Cybersecurity Grundlagen & praktische Labs
-- Moderne C++-Architekturen
-- Full-Stack Entwicklung mit React + Flask
+C++ multithreading simulation using mutexes, condition variables and semaphores.
 
-## Kontakt
-- GitHub: [Kaido-64](https://github.com/Kaido-64)
-- LinkedIn: [Adib Gharibe](https://www.linkedin.com/in/adib-gharibe-649252347/)
+---
 
+## 🛠 Tech Stack
 
+**Programming Languages**
 
+C++ • Python • JavaScript • TypeScript
 
+**Technologies & Tools**
 
+React • Flask • Qt • Git • Linux • Kali Linux
 
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaido-64\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaido-64\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect with me
+
+* 💼 LinkedIn: [Adib Gharibe](https://www.linkedin.com/in/adib-gharibe-649252347/)
+* 💻 GitHub: https://github.com/Kaido-64
+
+---
