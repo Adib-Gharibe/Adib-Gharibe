@@ -4,8 +4,10 @@
 💻 Fokus auf C++, Python, Cybersecurity und Webentwicklung  
 🚀 Ich entwickle Projekte in den Bereichen Softwareentwicklung, Security und moderne Anwendungen
 
-## Über mich
-Ich studiere Informatik und arbeite aktiv an praktischen Projekten, um meine Kenntnisse in Softwareentwicklung, Cybersecurity und moderner Webentwicklung auszubauen.
+## 👨‍💻 Über mich
+Ich studiere Informatik an der **Hochschule Darmstadt (h_da)** und interessiere mich besonders für Softwareentwicklung, Cybersecurity und moderne Webtechnologien.  
+Neben meinem Studium arbeite ich an eigenen Projekten, um praktische Erfahrung mit verschiedenen Programmiersprachen und Technologien zu sammeln.
+
 
 ## Tech Stack
 - **Sprachen:** C++, Python, TypeScript, JavaScript
