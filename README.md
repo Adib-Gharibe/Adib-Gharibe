@@ -40,22 +40,27 @@ These platforms help me practice real-world topics like:
 
 ---
 
-## 🚀 Projects
+# 🚀 Projects
 
 ### 🔐 Security Log Analyzer
-
 Python tool that analyzes SSH authentication logs and detects suspicious login activity.
 
+### 🧠 C++ Memory Stack Analyzer
+C++ program analyzing stack usage, heap allocation and recursion behavior using Linux system calls.
+
+### 🧮 C++ Memory Usage Analyzer
+Experiment measuring memory consumption of dynamic data structures using `getrusage`.
+
+### 🖥 C++ Mini Shell
+Simple Unix-like shell written in C++ supporting process management, signals and background jobs.
+
 ### 🚗 Accident Assistant App
+Mobile-first web application designed to assist users after a traffic accident.
 
-Mobile-first web application designed to support users after a traffic accident.
-
-### ✈️ Dragon Travel Manager
-
+### ✈️ Dragon Travel Guide
 C++ / Qt desktop application demonstrating modern C++ concepts.
 
 ### 📬 Mail Delivery Simulation
-
 C++ multithreading simulation using mutexes, condition variables and semaphores.
 
 ---
